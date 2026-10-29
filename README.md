@@ -1,7 +1,4 @@
-# Road Hopper 3D – Laboratorium 1 / WebGL2
-
-Jest to **kompletny, uruchamialny projekt** przeznaczony do analizowania podczas zajęć.
-W kodzie **nie ma zadań TODO** ani brakujących funkcji. Podczas laboratorium najpierw uruchom projekt, a następnie wykonuj eksperymenty opisane w `docs/Laboratorium_1_WebGL2_Road_Hopper_NOWE.pdf`.
+# Road Hopper 3D
 
 ## Uruchomienie
 
@@ -24,8 +21,3 @@ Jeżeli PowerShell blokuje `npm.ps1`, uruchom `npm.cmd install` i `npm.cmd run d
 - `src/shaders/fragmentShader.js` – kolor fragmentów.
 - `src/main.js` – inicjalizacja programu i kolejność renderowania sceny.
 
-**Uwaga:** Po każdym eksperymencie zapisz zmiany, obserwuj efekt w przeglądarce, zanotuj wniosek, a następnie przywróć wartość początkową, jeżeli instrukcja nie mówi inaczej. Dzięki temu następne eksperymenty zaczynają się od tej samej sceny.
-
-## Oddanie
-
-Zadania domowe znajdują się na końcu instrukcji PDF. Projekt oddaj jako archiwum ZIP **bez katalogu `node_modules`**, a sprawozdanie jako osobny PDF.
